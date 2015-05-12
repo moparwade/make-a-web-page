@@ -1,0 +1,36 @@
+.content {
+  background-color: #B0B0B0 ;
+  color: black;
+  border-radius: 30px;
+	padding: 10px;
+	margin: 50px auto;
+}
+.title {
+  color: #100000;
+  font-size: 25px;
+  text-align: center;
+  }
+body {	
+	color: #AB9F82;
+	font: 9pt/13pt georgia, sans-serif;
+	margin: 10px; 
+  padding: 10px;	
+	background: black
+	}
+h2 { 	
+	font-size: 20px;
+	font-weight: bold;		
+	line-height: 100%;
+	padding-top: 40px;
+}
+span {
+  font-style: italic;
+}
+h1 {
+	text-align: center;
+	color: Blue;
+}
+.links {
+  font-size: 25px;
+  line-height: 150%;
+}
